@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav
-- 👀 I work in the Elsevier, NHE, Shadow Health 
+- 👀 I work in the Elsevier, NHE, Shadow Health, Web Team 
 - 📫 How to reach me g.singh@elsevier.com, find me on slack or teams!
 
 <!---
